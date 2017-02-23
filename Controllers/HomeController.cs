@@ -15,14 +15,14 @@ namespace code_camp_template.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "The 2017 South Florida Code Camp sample template for asp.net Core and Visual Studio Code.";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Adrian Gabor.";
 
             return View();
         }

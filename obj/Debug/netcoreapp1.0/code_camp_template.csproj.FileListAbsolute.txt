@@ -1,0 +1,8 @@
+/home/camp1/github/code_camp_template/bin/Debug/netcoreapp1.0/code_camp_template.deps.json
+/home/camp1/github/code_camp_template/bin/Debug/netcoreapp1.0/code_camp_template.runtimeconfig.json
+/home/camp1/github/code_camp_template/bin/Debug/netcoreapp1.0/code_camp_template.runtimeconfig.dev.json
+/home/camp1/github/code_camp_template/bin/Debug/netcoreapp1.0/code_camp_template.dll
+/home/camp1/github/code_camp_template/bin/Debug/netcoreapp1.0/code_camp_template.pdb
+/home/camp1/github/code_camp_template/obj/Debug/netcoreapp1.0/code_camp_template.AssemblyInfo.cs
+/home/camp1/github/code_camp_template/obj/Debug/netcoreapp1.0/code_camp_template.dll
+/home/camp1/github/code_camp_template/obj/Debug/netcoreapp1.0/code_camp_template.pdb
